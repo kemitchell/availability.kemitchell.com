@@ -3,5 +3,5 @@
 test: spell
 
 spell:
-	aspell check index.html
+	aspell check --dont-backup index.html
 
