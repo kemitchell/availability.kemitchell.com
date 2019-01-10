@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "commonmark": "^0.28.1",
+    "mustache": "^3.0.1"
+  }
+}
