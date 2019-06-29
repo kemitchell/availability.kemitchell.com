@@ -7,10 +7,10 @@ all: $(TERMS:.mustache=.html)
 %.md: view.json %.mustache | $(MUSTACHE)
 	$(MUSTACHE) $^ > $@
 
-%.html: %.md _before.html _after.html | $(MUSTACHE)
-	cat _before.html > $@
+%.html: %.md partials/_before.html partials/_after.html | $(MUSTACHE)
+	cat partials/_before.html > $@
 	$(COMMONMARK) -t html --smart $< >> $@
-	cat _after.html >> $@
+	cat partials/_after.html >> $@
 
 $(COMMONMARK) $(MUSTACHE):
 	npm install
