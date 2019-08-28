@@ -51,7 +51,7 @@ Pro bono clients' needs vary.  However, I usually seek pro bono clients with nee
 ## Colleagues
 
 I'm always happy to meet and support fellow lawyers.  [Send me an e-mail anytime.](mailto:kyle@kemitchell.com)
-{: .danger}
+{: .success}
 
 Fellow lawyers aren't law clients, but lawyers themselves.  However, colleagues occasionally need help with specific questions, often out of client work, that point to my legal and technical background.
 
