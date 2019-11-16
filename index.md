@@ -15,7 +15,7 @@ Regular clients require substantial time each workweek, and sometimes each workd
 
 Regular clients pay a flat monthly fee for my services.  The flat fee can be renegotiated anytime, but fee changes apply only to future months, never retroactively.
 
-My regular clients pay a minimum of $5,000 per month.
+My regular clients pay a minimum of $6,000 per month.
 
 ## Project Clients {#project}
 
