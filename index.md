@@ -8,7 +8,7 @@ Generally speaking, I serve four kinds of clients as legal counsel: [regular cli
 
 ## Regular Clients {#regular}
 
-I could take one more regular client, depending on their needs.  [E-mail me anytime.](mailto:kyle@kemitchell.com)
+I could take one more regular client.  [E-mail me anytime.](mailto:kyle@kemitchell.com)
 {: .success}
 
 Regular clients require substantial time each workweek, and sometimes each workday, many workdays in a row.  Their needs can vary widely, month to month.  Typically, regular clients see me as "inside-out counsel", or outside counsel working as general counsel.
