@@ -15,7 +15,7 @@ Regular clients require substantial time each workweek, and sometimes each workd
 
 Regular clients pay a flat monthly fee for my services.  The flat fee can be renegotiated anytime, but fee changes apply only to future months, never retroactively.
 
-My regular clients pay a minimum of $6,000 per month.
+My regular clients pay a minimum of $6,000 (USD) per month.
 
 ## Project Clients {#project}
 
@@ -28,7 +28,7 @@ I'm always happy to hear from former project clients about new opportunities.  B
 
 Some project clients pay an hourly rate and expenses.  Some project clients play flat rates, for the whole project, per week, or otherwise.  Depends on the project.
 
-My going rate for new project work is $500 per hour.
+My going rate for new project work is $500 (USD) per hour.  I occasionally lower my rate for clients paying out of pocket, as individuals.
 
 ## Standby Clients {#standby}
 
