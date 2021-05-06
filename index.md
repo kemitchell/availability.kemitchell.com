@@ -30,6 +30,16 @@ Some project clients pay an hourly rate and expenses.  Some project clients play
 
 My going rate for new project work is $500 (USD) per hour.  I occasionally lower my rate for clients paying out of pocket, as individuals.
 
+## Consultation Clients {#strategy}
+
+I am available to take new strategy clients.  [E-mail me anytime.](mailto:kyle@kemitchell.com)
+
+Consultation clients' needs can usually be met in a phone call or two, with a follow-up e-mail to memorialize conclusions, addressing a single question or concern.  Some consultation clients' needs straddle legal advice and business consulting, especially on matters of open licensing strategy or novel business structure.  These clients often want me to brainstorm different models or approaches, or to double check a plan of their own.  Other needs address very specific questions, usually related to compliance with free software, open source, or other public copyright licenses.
+
+Consultation clients pay an hourly rate.  Billable time includes our initial introductory phone call.
+
+My going rate for consultation work is $500 (USD) per hour.  I occasionally lower my rate for clients paying out of pocket, as individuals.
+
 ## Standby Clients {#standby}
 
 I'm not currently taking new standby clients.
