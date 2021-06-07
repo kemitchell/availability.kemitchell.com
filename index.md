@@ -4,7 +4,7 @@ layout: default
 
 This page describes the kinds of working relationships I seek and my availability for new ones.
 
-Generally speaking, I serve four kinds of clients as legal counsel: [regular clients](#regular), [project clients](#project), [standby clients](#standby), and [pro bono clients](#probono).  I also support some [lawyer colleagues](#colleagues) who need help with specific questions from time to time, as I'm supported by others.
+Generally speaking, I serve four kinds of clients as legal counsel: [regular clients](#regular), [project clients](#project), [standby clients](#standby), and [pro bono clients](#probono).  I also support some [lawyer colleagues](#colleagues) who need help with specific questions from time to time.
 
 ## Regular Clients {#regular}
 
