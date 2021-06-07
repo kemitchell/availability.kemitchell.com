@@ -64,9 +64,8 @@ Pro bono clients' needs vary.  However, I usually seek pro bono clients with nee
 I'm always happy to meet and support fellow lawyers.  [Send me an e-mail anytime.](mailto:kyle@kemitchell.com)
 {: .success}
 
-Fellow lawyers aren't law clients, but lawyers themselves.  However, colleagues occasionally need help with specific questions, often out of client work, that point to my legal and technical background.
+Fellow lawyers aren't law clients, but lawyers themselves.  However, colleagues occasionally need help with specific questions, often out of client work, that point to my legal and technical background.  Sometimes those needs go beyond what I've been able to publish on my [blog](https://writing.kemitchell.com) or with clients through organizations like [Blue Oak Council](https://blueoakcouncil.org/).
 
 When colleagues expect to send me questions for specific clients of theirs here and there, they often ask to pay an hourly rate.
 
 I am always happy to discuss interesting new developments, problems, and hypotheticals with other attorneys who have as much to teach me as I have to teach them.  Sometimes I feel I should pay _them_.  I'm happy to do so!
-
