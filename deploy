@@ -1,3 +1,4 @@
+#!/bin/sh
 set -e
-bundle exec jekyll build
-rsync -4 -a --delete _site/ kyle@kemitchell.com:/var/www/availability.kemitchell.com/
+site=availability.kemitchell.com
+exec rsync -a --delete $(git ls-files) $site:/var/www/$site/

@@ -1,8 +1,0 @@
-title: Kyle Mitchell’s Availability
-url: https://availability.kemitchell.com
-homepage: https://availability.kemitchell.com
-exclude:
-- vendor
-- Gemfile
-- Gemfile.lock
-- publish
