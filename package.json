@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "devDependencies": {
+    "ejs": "^3.1.9"
+  },
+  "scripts": {
+    "build": "ejs --data-file view.json --output-file index.html index.ejs "
+  }
+}

@@ -1,4 +1,6 @@
 #!/bin/sh
 set -e
+[ -d node_modules ] || npm ci
+npm run build
 site=availability.kemitchell.com
-exec rsync -a --delete $(git ls-files) $site:/var/www/$site/
+scp index.html "$site:/var/www/$site"
