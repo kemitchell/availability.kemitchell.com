@@ -1,10 +1,12 @@
 {
+  "type": "module",
   "private": true,
   "devDependencies": {
     "ejs": "^3.1.9",
     "js-yaml": "^4.1.0"
   },
   "scripts": {
+    "test": "node test",
     "build": "js-yaml data.yml | ejs --data-file /dev/stdin --output-file index.html index.ejs"
   }
 }
