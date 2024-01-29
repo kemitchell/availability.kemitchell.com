@@ -1,6 +1,7 @@
-regular: false
-project: false
-standby: false
-consultation: true
-probono: false
-colleague: true
+regular: red
+project: red
+standby: red
+consultation: green
+probono: red
+colleague: green
+rate: '$500 (USD) per hour
