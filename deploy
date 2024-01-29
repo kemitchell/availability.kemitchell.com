@@ -1,6 +1,7 @@
 #!/bin/sh
 set -e
 [ -d node_modules ] || npm ci
+npm run test
 npm run build
 site=availability.kemitchell.com
 scp index.html "$site:/var/www/$site"
