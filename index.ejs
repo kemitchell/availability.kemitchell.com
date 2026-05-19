@@ -34,9 +34,11 @@
     <h2 id="project">Project Clients</h2>
     <% if (project === 'green') { %>
     <p class="success">I am available to take new project clients. <a href="mailto:kyle@kemitchell.com">E-mail me anytime.</a></p>
+    <% } else if (project === 'yellow') { %>
+    <p class="danger">I have limited availability for new project clients at this time.</p>
     <% } else if (project === 'red') { %>
     <p class="danger">I am not taking new project clients at this time.</p>
-    <% } else throw new Error('project: yellow not implemented') %>
+    <% } %>
     <p>Project clients hire me to help with specific legal projects or deals. When a project ends, the working relationship ends with it. In legal jargon, project clients have “limited-scope engagements”.</p>
     <p>I’m always happy to hear from former project clients about new opportunities. But I don’t commit to stay available to project clients after the current project.</p>
     <p>Some project clients pay an hourly rate and expenses. Some project clients play flat rates, for the whole project, per week, or otherwise. Depends on the project.</p>
@@ -55,7 +57,7 @@
     <% throw new Error('standby: green not implemented') %>
     <% } else if (standby === 'red') { %>
     <p class="danger">I’m not currently taking new standby clients.</p>
-    <% } else throw new Error('standby: yellow now implemented') %>
+    <% } else throw new Error('standby: yellow not implemented') %>
     <p>Standby clients require my help unpredictably. Sometimes deals for standby clients require work for several weeks in a row. Sometimes standby clients go months without messaging me at all. Standby clients often see me as “inside-out counsel”—outside counsel working as general counsel—but their needs are minimal.</p>
     <p>Standby clients pay an hourly rate plus expenses.</p>
     <h2 id="probono">Pro Bono Clients</h2>

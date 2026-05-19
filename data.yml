@@ -1,5 +1,5 @@
-regular: green
-project: green
+regular: red
+project: yellow
 standby: red
 consultation: green
 probono: red
