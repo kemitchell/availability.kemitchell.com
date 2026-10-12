@@ -3,7 +3,7 @@
   "private": true,
   "devDependencies": {
     "ejs": "^7.0.1",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^5.4.3"
   },
   "scripts": {
     "test": "node test",
