@@ -1,9 +1,9 @@
 import test from 'node:test'
 import assert from 'node:assert'
 import { readFileSync } from 'node:fs'
-import yaml from 'js-yaml'
+import { load } from 'js-yaml'
 
-const data = yaml.load(readFileSync('data.yml', 'utf8'))
+const data = load(readFileSync('data.yml', 'utf8'))
 test('states', () => {
   const states = ['red', 'yellow', 'green']
   for (const kind of ['regular', 'project', 'standby', 'consultation', 'probono', 'colleague']) {
